@@ -15,4 +15,4 @@ A set a really need live templates to significantly reduce the time it takes to 
 - df - Date formatter
 
 ## Installation Instructions
-Simp;ly i9mport the setting file into IntelJ, it only adds the new templates and does not affect other settings
+Simply import the settings file into IntelJ, it only adds the new templates and does not affect other settings
